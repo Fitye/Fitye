@@ -1,6 +1,6 @@
 ### Hi there 👋（NO fIX
 🚀初步浅_Fitye
-> **⚡The wind comes from far away, it’s okay to go
+> ⚡The wind comes from far away, it’s okay to go
 
 <!--
 **Fitye/Fitye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
