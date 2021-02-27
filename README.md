@@ -1,4 +1,4 @@
-### Hi there 👋（NO IX
+### Hi there 👋（NO FIX
 🚀初步浅_Fitye
 >⚡The wind comes from far away, it’s okay to go
 
