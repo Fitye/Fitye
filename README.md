@@ -1,6 +1,10 @@
 ### Hi there 👋（NO FIX
 🚀初步浅_Fitye
 >⚡The wind comes from far away, it’s okay to go
+>
+- 🔭 I am a student in Qingdao Shandon,China.
+- 🌱 I am a fronend developer.
+- 👯 Developer / Coder
 
 <!--
 **Fitye/Fitye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+      
