@@ -3,7 +3,7 @@
 >⚡The wind comes from far away, it’s okay to go
 >
 - 🔭 I am a student in Qingdao Shandon,China.
-- 🌱 I am a fronend developer.
+- 🌱 I am a front-end web developer.
 - 👯 Developer / Coder
 
 <!--
