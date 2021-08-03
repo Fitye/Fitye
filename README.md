@@ -2,7 +2,7 @@
 🚀初步浅_Fitye
 >⚡The wind comes from far away, it’s okay to go
 >
-- 🔭 I am a student in Qingda,China.
+- 🔭 I am a student in Qingdao,China.
 - 🌱 I am a front-end web developer.
 - 👯 Developer / Coder
 
