@@ -5,6 +5,7 @@
 - 🔭 I am a student in Qingdao,China.
 - 🌱 I am a front-end web developer.
 - 👯 Developer / Coder
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/63393725/198955172-0ea24eb0-9623-4dd8-8306-4f8795a33fee.svg)
 
 <!--
 **Fitye/Fitye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
